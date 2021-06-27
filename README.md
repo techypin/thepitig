@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thepitig
+- 👋 Hi, I’m Piyush
 
 ![](https://komarev.com/ghpvc/?username=thepitig)
 
