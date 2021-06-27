@@ -1,5 +1,8 @@
 - 👋 Hi, I’m @thepitig
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=thepitig)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 - 👀 I’m interested in **DJANGO - PYTHON - ANDROID - JAVA - HTML - CSS - BOOTSTRAP - JAVASCRIPT**
 
