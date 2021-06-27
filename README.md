@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @thepitig
 
+![](https://komarev.com/ghpvc/?username=thepitig)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=thepitig)](https://github.com/ryo-ma/github-profile-trophy)
 
 
