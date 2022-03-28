@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **[ ANYTHING ABOUT PROGRAMMING IN WHICH AM EXPERIENCED ]**
 
-- 📫 How to reach me **thepitig@gmail.com OR +918709095050**
+- 📫 How to reach me **techypin@gmail.com OR +918709095050**
 
 - ⚡ Fun fact **I think am very addicted with Programming**
 
